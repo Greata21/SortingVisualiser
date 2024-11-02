@@ -1,0 +1,23 @@
+/* .array-container {
+  position: absolute;
+  left: 100px;
+}
+
+.array-bar {
+  width: 30px;
+  background-color: rgb(229, 173, 246);
+  display: inline-block;
+  margin: 0, 10px, 0, 10px;
+} */
+
+.array-container {
+  position: absolute;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
